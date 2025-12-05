@@ -1,0 +1,5 @@
+asgiref==3.6.0
+Django==3.0
+django-crispy-forms==1.14.0
+django-ipware==4.0.2
+Pillow==9.4.0
